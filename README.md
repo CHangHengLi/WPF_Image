@@ -3,6 +3,7 @@
 ## 项目概述
 
 这是一个基于WPF的演示应用程序，旨在展示和说明WPF中Image控件的各种功能和特性。通过这个应用，您可以了解Image控件的基本属性、加载方式、性能优化技巧以及高级应用案例。
+![66e33c50-9ce1-4db9-9155-444c82f315d3](https://github.com/user-attachments/assets/6adc4954-5734-48bf-b5e7-e7a9692b14a2)
 
 ## 功能特点
 
